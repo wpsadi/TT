@@ -1,4 +1,4 @@
-let sem1 = {
+const sem1 = {
     "ICT101":{
         "code":"ICT101",
         "paper":"Programming for Problem Solving",
